@@ -2,8 +2,8 @@
   body {
     font-family: 'Alata', sans-serif;
     width: 350px;
-    background: rgb(68,0,255);
-    background: linear-gradient(90deg, rgba(68,0,255,1) 0%, rgba(32,46,111,1) 100%);
+    background: rgb(74,0,255);
+    background: linear-gradient(90deg, rgba(74,0,255,1) 0%, rgba(58,0,200,1) 100%);
     text-align: center;
   }
   h5 {
